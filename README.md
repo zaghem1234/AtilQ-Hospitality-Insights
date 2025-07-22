@@ -78,3 +78,10 @@ Mumbai led in revenue generation with ₹669 Million, followed by Bangalore, Hyd
 
 **Room Type Trends:**
 - Elite rooms received the most bookings, but also experienced the highest cancellation rate.
+
+## Final Most Important Recomendation
+- As it is found that the hotel chain is missing its pricing strategy, as they have not made different prices for weekday and weekend days and not for different type of hotels on the basis of their ratings.
+- Also they have not settled the prices strategy for booking platform like they have no differenciation for their on platform.
+- But it is not recommended to change the price for differenct platforms but to give promotional offers.
+- Similarly divice promotion offer strategy for week and weekend days and hotels for different ratings.
+- So overall there is a need of promotional strategy
