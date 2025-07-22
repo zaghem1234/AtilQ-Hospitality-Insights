@@ -35,30 +35,46 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ### Key Learnings:
 
 **Custom Visuals:**
+
 Developed a calendar-style visual using the matrix table, enhancing date-based analysis capabilities for bookings and revenue trends.
+
 **Business Understanding:**
+
 Gained insights into hotel cancellation policies, noting that:
-----Most hotels offer zero cancellation charges if canceled more than 3 months in advance.
-----Post this period, cancellation charges typically range from 60% to 90% of the booking amount.
+- Most hotels offer zero cancellation charges if canceled more than 3 months in advance.
+- Post this period, cancellation charges typically range from 60% to 90% of the booking amount.
+
 **Power BI Techniques:**
-----Implemented Bookmarks and Selection Pane for interactive report navigation and storytelling.
-----Applied a consistent color palette throughout the dashboard to maintain visual coherence.
-________________________________________
-###Data Insights:###
+
+- Implemented Bookmarks and Selection Pane for interactive report navigation and storytelling.
+- Applied a consistent color palette throughout the dashboard to maintain visual coherence.
+
+### Data Insights:
+
 **Top Performing City:**
+
 Mumbai led in revenue generation with ₹669 Million, followed by Bangalore, Hyderabad, and Delhi.
+
 **Property Performance:**
---AtliQ Exotica outperformed all 7 property types with:
------->Revenue: ₹320 Million
------->Rating: 3.62
------->Occupancy: 57%
------->Cancellation Rate: 24.4%
------->AtliQ Bay achieved the highest occupancy rate of 66%.
+
+- AtliQ Exotica outperformed all 7 property types with:
+- Revenue: ₹320 Million
+- Rating: 3.62
+- Occupancy: 57%
+- Cancellation Rate: 24.4%
+- AtliQ Bay achieved the highest occupancy rate of 66%.
+
 **Time-Based Insights:**
-----Week 24 registered the highest revenue of ₹139.6 Million across the timeline.
+
+- Week 24 registered the highest revenue of ₹139.6 Million across the timeline.
+
 **City Performance Comparison:**
-----Delhi ranks highest in both occupancy and customer ratings, followed by Hyderabad, Mumbai, and Bangalore.
+
+- Delhi ranks highest in both occupancy and customer ratings, followed by Hyderabad, Mumbai, and Bangalore.
+
 **Revenue Losses:**
-----AtliQ hotels faced a revenue loss of ₹298 Million due to cancellations.
+
+- AtliQ hotels faced a revenue loss of ₹298 Million due to cancellations.
+
 **Room Type Trends:**
-----Elite rooms received the most bookings, but also experienced the highest cancellation rate.
+- Elite rooms received the most bookings, but also experienced the highest cancellation rate.
