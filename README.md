@@ -37,9 +37,9 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## Project Learnings and Insights
 
-### Project: Revenue Insights in Hospitality Domain
 
-### Key Learnings:
+
+## Key Learnings:
 
 **Custom Visuals:**
 
@@ -56,7 +56,7 @@ Gained insights into hotel cancellation policies, noting that:
 - Implemented Bookmarks and Selection Pane for interactive report navigation and storytelling.
 - Applied a consistent color palette throughout the dashboard to maintain visual coherence.
 
-### Data Insights:
+## Data Insights:
 
 **Top Performing City:**
 
