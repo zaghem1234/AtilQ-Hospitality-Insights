@@ -18,6 +18,8 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## Data Model
 
+![Model-and-Meashures](Resources/Model-and-Measures.jpg)
+
 
 ## Main Dashboard View
 
