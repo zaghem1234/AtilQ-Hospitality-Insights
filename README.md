@@ -56,7 +56,7 @@ Gained insights into hotel cancellation policies, noting that:
 - Implemented Bookmarks and Selection Pane for interactive report navigation and storytelling.
 - Applied a consistent color palette throughout the dashboard to maintain visual coherence.
 
-### Data Insights:
+<h3><u>Data Insights</u></h3>
 
 **Top Performing City:**
 
