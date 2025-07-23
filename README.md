@@ -14,21 +14,23 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## Provided Mock-up Dashboard
 
+![Mock-up-Dashboard](Resources/mock-up-dashboard.png)
 
 
-## Data Model
+## Data Model and Measures
 
 ![Model-and-Meashures](Resources/Model-and-Measures.jpg)
 
 
-## Main Dashboard View
+## Main Dashboard
 
 ![Main-Dashboard](Resources/main-dashboard.jpg)
 
 
 
-## Revenue and Occupancy different Distributions View
+## Dashboard 2nd View
 
+![Model-and-Meashures](Resources/dashboard-2.jpg)
 
 
 
