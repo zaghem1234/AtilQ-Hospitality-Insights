@@ -21,7 +21,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## Main Dashboard View
 
-![Main-Dashboard](Resources/main dashboard.jpg)
+![Main-Dashboard](Resources/main-dashboard.jpg)
 
 
 
